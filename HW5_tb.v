@@ -1,5 +1,5 @@
 `timescale 1ns/1ps
-    module BCD_tb;
+    module HW5_tb;
 reg clk_tb;
 reg Load;
 reg Din;
